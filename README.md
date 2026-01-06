@@ -44,3 +44,12 @@ You need Python installed. We recommend creating a virtual environment.
 ```bash
 git clone [https://github.com/your-username/thermal-simulator.git](https://github.com/your-username/thermal-simulator.git)
 cd thermal-simulator
+```
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### 3. Run the Application
+```bash
+streamlit run app.py
+```
