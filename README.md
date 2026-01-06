@@ -2,8 +2,8 @@
 
 **A Group Assignment for [Course Name] - SFC & Yagami Collaboration**
 
-![Simulation Screenshot](screenshot.png)
-*(Place a screenshot of your app here and name it screenshot.png)*
+<img width="3144" height="1828" alt="image" src="https://github.com/user-attachments/assets/689fb99f-46ac-4782-aca9-73611aa2c8d5" />
+
 
 ## 📖 Overview
 This project is an interactive numerical simulation tool designed to model **Heat Diffusion** in large indoor spaces. 
